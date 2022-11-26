@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kazi/static/css/main.4b4a6209.css",
+    "main.js": "/kazi/static/js/main.379e76ca.js",
+    "index.html": "/kazi/index.html",
+    "main.4b4a6209.css.map": "/kazi/static/css/main.4b4a6209.css.map",
+    "main.379e76ca.js.map": "/kazi/static/js/main.379e76ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b4a6209.css",
+    "static/js/main.379e76ca.js"
+  ]
+}
